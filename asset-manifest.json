@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TrafficLights/static/css/main.b5ab83c0.css",
+    "main.js": "/TrafficLights/static/js/main.8547fd89.js",
+    "index.html": "/TrafficLights/index.html",
+    "main.b5ab83c0.css.map": "/TrafficLights/static/css/main.b5ab83c0.css.map",
+    "main.8547fd89.js.map": "/TrafficLights/static/js/main.8547fd89.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5ab83c0.css",
+    "static/js/main.8547fd89.js"
+  ]
+}
