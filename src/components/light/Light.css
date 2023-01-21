@@ -1,0 +1,16 @@
+
+div{
+    margin:auto;
+}
+
+button {
+    background-color: grey;
+    border: none;
+    padding: 10px 30px;
+    transition-duration: 0.4s;
+}
+
+button:hover {
+    background-color: lightgrey;
+    color: black;
+}
